@@ -2,3 +2,6 @@ Hello Friends. Adding a feature
 
 
 Actually this is the conflict testing second time.
+
+This is for conflict checking
+
